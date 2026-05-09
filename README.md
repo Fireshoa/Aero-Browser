@@ -1,5 +1,5 @@
 # Aero Browser 🚀
-A lightweight, PC-style browsing experience built for mobile and Chromebooks.
+A lightweight, PC-style browsing experience built for apk compatable devices.
 
 ## 🌟 Features
 - **PC Emulation:** Renders sites with a Win11 desktop User-Agent.
@@ -11,7 +11,7 @@ A lightweight, PC-style browsing experience built for mobile and Chromebooks.
 | :--- | :--- |
 | `/print` | Opens the system print dialog for the current page. |
 | `/disableblocker` | Suspends the `check()` interval for the current session. |
-| `/enableblocker` | Resumes the content filtering script. |
+| `/enableblocker` | Resumes the content filtering script. (Reload required) |
 
 ## 🛠️ Built With
 - **MIT App Inventor**
